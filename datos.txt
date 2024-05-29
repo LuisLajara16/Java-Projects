@@ -1,3 +1,43 @@
-56, Luis, Lajara
-57, Adrian, Mirabal
-58, Maria, Sanchez
+Cédula: 40212345   Nombre: Juan                
+Fecha     Vendedor            Tipo_de_compra Articulo            Cantidad  Precio    Monto     
+29-4-2024 Mark Zukenberg      Contado        Iphone 14           1         5000      5000.00   
+29-4-2024 Mark Zukenberg      Contado        Iphone 13           98        5000      490000.00 
+                                                                                      Total: 495000.00
+
+
+Cédula: 123456797  Nombre: Leonel              
+Fecha     Vendedor            Tipo_de_compra Articulo            Cantidad  Precio    Monto     
+4-4-2024  Mark Zukenberg      Cheque         PlayStation 5       3         500000    1500000.00
+                                                                                      Total: 1500000.00
+
+
+Cédula: 4022234596 Nombre: Adrian              
+Fecha     Vendedor            Tipo_de_compra Articulo            Cantidad  Precio    Monto     
+24-4-2024 El Profe            Credito        Xiomi 13 Pro        2         17000     34000.00  
+                                                                                      Total: 34000.00
+
+
+Cédula: 40209876534 Nombre: Isaury              
+Fecha     Vendedor            Tipo_de_compra Articulo            Cantidad  Precio    Monto     
+23-4-2024 Adrian Mirabal      Contado        Aspiradora          4         2500      10000.00  
+                                                                                      Total: 10000.00
+
+
+Cédula: 40212345678 Nombre: Plinio              
+Fecha     Vendedor            Tipo_de_compra Articulo            Cantidad  Precio    Monto     
+23-4-2024 Plinio Palmer       Cheque         Laptop              1         5000      5000.00   
+25-4-2024 Plinio Palmer       Cheque         Macbook pro         2         3750      7500.00   
+                                                                                      Total: 12500.00
+
+
+Cédula: 40214831741 Nombre: Luis                
+Fecha     Vendedor            Tipo_de_compra Articulo            Cantidad  Precio    Monto     
+21-4-2024 Luis Lajara         Contado        Samsung Galaxy s24  1         56000     56000.00  
+23-4-2024 Luis Lajara         Contado        Macbook Pro M1      1         110000    110000.00 
+                                                                                      Total: 166000.00
+
+
+Cédula: 40229881384 Nombre: David               
+Fecha     Vendedor            Tipo_de_compra Articulo            Cantidad  Precio    Monto     
+25-4-2024 Mark Zukenberg      Credito        Macbook pro         9         200000    1800000.00
+                                                                                      Total: 1800000.00
